@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,608",
+                        "endLines": "15,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "567,840"
+                    },
+                    "to": {
+                        "startLines": "21,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "1009,1383",
+                        "endLines": "30,36",
+                        "endColumns": "12,12",
+                        "endOffsets": "1378,1610"
+                    }
+                },
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "21,25,4,3,10,23,6,27,11,7,8,15,17,13,19,9,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "738,843,109,56,394,794,209,905,435,251,292,566,634,501,677,343,162",
+                        "endColumns": "42,60,52,52,40,47,41,54,54,40,50,48,41,57,51,50,46",
+                        "endOffsets": "776,899,157,104,430,837,246,955,485,287,338,610,671,554,724,389,204"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "167,210,271,324,377,418,466,508,563,618,659,710,759,801,859,911,962",
+                        "endColumns": "42,60,52,52,40,47,41,54,54,40,50,48,41,57,51,50,46",
+                        "endOffsets": "205,266,319,372,413,461,503,558,613,654,705,754,796,854,906,957,1004"
+                    }
+                },
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,150",
+                        "endColumns": "56,54",
+                        "endOffsets": "144,200"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android\\StudioProjects\\RallClock32_GPSS\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}
